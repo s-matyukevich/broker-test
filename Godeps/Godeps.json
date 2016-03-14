@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/s-matyukevich/broker-test",
+	"GoVersion": "go1.6",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-173-gdafdd96",
+			"Rev": "dafdd96c12087352f3cf407b8f2a058028edf715"
+		}
+	]
+}
